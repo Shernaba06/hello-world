@@ -1,2 +1,3 @@
 # hello-world
-The typical first repository for every new accoungt
+The typical first repository for every new account
+
